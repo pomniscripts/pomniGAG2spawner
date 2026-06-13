@@ -1,0 +1,6 @@
+Script Here
+|
+|
+V
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pomniscripts/pomniGAG2spawner/refs/heads/main/loader"))()
